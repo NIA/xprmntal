@@ -1,1 +1,5 @@
 TEMP
+
+Now the utf-8 cyrillic letters are below:
+Это русские буквы, всё хорошо
+---- end of russian letters.
