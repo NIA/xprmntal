@@ -1,5 +1,14 @@
 TEMP
 
-Now the utf-8 cyrillic letters are below:
-Это русские буквы, всё хорошо
----- end of russian letters.
+Mathematical UTF-8 symbols:
+≤  ≥  ‰  ∫
+--- end of mathematical UTF-8 symbols
+
+Currency UTF-8 symbols:
+€ ₤ ₱
+--- end of currency symbols
+
+Musical symbols:
+♩ ♭ ♯
+--- end of musical symbols
+
